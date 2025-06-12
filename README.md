@@ -12,6 +12,5 @@ This repository contains my solution to Oxford Risk's data analysis task. Key fi
 ## Repository Structure
 - Analysis: 1. `code.py`: Python analysis script 2. `Data Analysis.pptx`: Presentation of key insights
 - Visualisations: Generated plots and charts
-- Cover_Letter 
 - `Notes About Myself.docx`: why I am applying and my interest in the role
 - Xiaotong Liu_English CV
